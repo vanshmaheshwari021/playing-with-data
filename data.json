@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Rahul Sharma",
+        "feedback": "Excellent service and quick delivery.",
+        "rating": 5,
+        "age": 24
+    },
+    {
+        "name": "Priya Verma",
+        "feedback": "Product quality was good.",
+        "rating": "4",
+        "age": 29
+    },
+    {
+        "name": "Amit Singh",
+        "feedback": "Average experience, can be improved.",
+        "rating": 3.5,
+        "age": null
+    },
+    {
+        "name": "Sneha Patel",
+        "feedback": "Customer support was very helpful.",
+        "rating": "Five",
+        "age": 27
+    },
+    {
+        "name": "Rohit Mehta",
+        "feedback": "Delivery was delayed.",
+        "rating": 2,
+        "age": ""
+    },
+    {
+        "name": "Anjali Gupta",
+        "feedback": "Satisfied with the purchase.",
+        "rating": true,
+        "age": 22
+    },
+    {
+        "name": "Rahul Sharma",
+        "feedback": "Excellent service and quick delivery.",
+        "rating": 5,
+        "age": 24
+    },
+    {
+        "name": "Priya Verma",
+        "feedback": "Product quality was good.",
+        "rating": "4",
+        "age": 29
+    }
+]
